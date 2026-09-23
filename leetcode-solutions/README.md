@@ -1,5 +1,5 @@
-Name:P yashwanth.
-SRN:R25EF174.
+Name:Pranay Kamkar
+SRN:R25EF192
 Description:
          LeetCode Solutions
 
